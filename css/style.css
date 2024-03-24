@@ -94,7 +94,7 @@ a:focus {
 /* slider section */
 
 .slider_section {
-  height: calc(100vh - 90px);
+  height: 100vh;
 }
 
 .slider_section .carousel-indicators {
@@ -145,8 +145,8 @@ a:focus {
 .slider_section .slider_box {
   display: flex;
   position: relative;
-  height: calc(100vh - 90px);
-  background-image: url(../images/gallery-img3.jpeg);
+  height: calc(100vh - 20px);
+  background-image: url(../images/gallery-img9.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
 }

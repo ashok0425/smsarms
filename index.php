@@ -16,7 +16,7 @@ include('./includes/header.php')
           <div class="slider_box">
             <div class="fixed_company-detail">
               <p>
-                Shakti Management Service (SMS)
+                Shakti Management Service 
               </p>
             </div>
             <div class="slider-detail">
@@ -50,7 +50,7 @@ the core of a corporate survival & success
           <div class="slider_box">
             <div class="fixed_company-detail">
               <p>
-              Shakti Management Service (SMS)
+              Shakti Management Service 
 
               </p>
             </div>
@@ -86,7 +86,7 @@ India as well overseas businesses.
           <div class="slider_box">
             <div class="fixed_company-detail">
               <p>
-              Shakti Management Service (SMS)
+              Shakti Management Service 
 
               </p>
             </div>
